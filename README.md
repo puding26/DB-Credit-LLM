@@ -31,7 +31,7 @@ An Efficient Credit Scoring LLM
 
 # Acknowledgment
 
-## 1. [DeepSeek-R1][(https://arxiv.org/abs/2501.12948)]
+## 1. [DeepSeek-R1](https://arxiv.org/abs/2501.12948)
 
 
   
