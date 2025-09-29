@@ -1,0 +1,1502 @@
+[
+    {
+        "Index": "522",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "738",
+        "Question": "With average behavioral performance (0.104088) and fair demographics (0.024344), this person presents moderate creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "741",
+        "Question": "Limited behavioral (0.101861) and demographic (0.010340) scores keep this profile in the low credit reliability tier.",
+        "Response": "0"
+    },
+    {
+        "Index": "661",
+        "Question": "Persistent low behavioral score of 0.101861 confirms weak financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "412",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.117850, showing solid financial management with a slightly above-average demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "679",
+        "Question": "A behavioral score of 0.107702 and demographic score of 0.025286 point to a dependable financial profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "627",
+        "Question": "A low behavioral score of 0.102904 and demographic score of 0.002178 suggest weak financial dependability.",
+        "Response": "0"
+    },
+    {
+        "Index": "514",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111138, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "860",
+        "Question": "Very low demographic score (0.002178) with an average behavioral score (0.115812) signals higher risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "137",
+        "Question": "Low demographics of 0.002178 are countered by reliable behavioral activity at 0.103028.",
+        "Response": "1"
+    },
+    {
+        "Index": "812",
+        "Question": "Moderate demographic score (0.024610) and solid behavioral score (0.110878) indicate an average credit profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "77",
+        "Question": "Weak demographics at 0.002178 are countered by a 0.102904 behavioral score.",
+        "Response": "0"
+    },
+    {
+        "Index": "637",
+        "Question": "A strong behavioral score of 0.120140 outweighs the modest demographic score of 0.009587, signaling high financial trust.",
+        "Response": "1"
+    },
+    {
+        "Index": "974",
+        "Question": "A moderate demographic score (0.021840) with a good financial behavior score (0.112352) reflects strong creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "939",
+        "Question": "A moderate demographic score (0.024366) with a good financial behavior score (0.105928) suggests a steady borrower.",
+        "Response": "1"
+    },
+    {
+        "Index": "900",
+        "Question": "Low demographic score (0.009587) with a good financial behavior score (0.101908) indicates average credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "281",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, reflecting average demographic and financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "884",
+        "Question": "Average demographic score (0.010340) with a strong behavioral score (0.101861) indicates moderate credit risk with consistent behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "762",
+        "Question": "Strong financial behavior (0.110878) and fair demographic score (0.024610) indicate reliable creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "320",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102194, reflecting decent financial responsibility with a slightly better demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "550",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102194, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "175",
+        "Question": "A behavioral score of 0.104719 improves a minimal 0.022241 demographic input.",
+        "Response": "0"
+    },
+    {
+        "Index": "372",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating a good financial history and a slightly above-average demographic standing.",
+        "Response": "0"
+    },
+    {
+        "Index": "528",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.106929, indicating moderate financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "211",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, suggesting limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "236",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.123850, indicating excellent financial trustworthiness.",
+        "Response": "1"
+    },
+    {
+        "Index": "102",
+        "Question": "A fair demo score of 0.024610 is reinforced by a strong behavioral score of 0.110878.",
+        "Response": "0"
+    },
+    {
+        "Index": "987",
+        "Question": "A very low demographic score (0.002178) with a moderate financial behavior score (0.102904) indicates a higher potential for financial risks.",
+        "Response": "0"
+    },
+    {
+        "Index": "903",
+        "Question": "A low demographic score (0.008240) and a strong financial behavior score (0.108165) suggests solid financial behavior despite demographic challenges.",
+        "Response": "1"
+    },
+    {
+        "Index": "948",
+        "Question": "A solid demographic score (0.025119) with a steady behavioral score (0.106940) indicates moderate credit reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "347",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102906, showing strong financial behavior despite a very low demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "140",
+        "Question": "A 0.102214 behavioral rating supports stable performance with a 0.023755 demographic.",
+        "Response": "0"
+    },
+    {
+        "Index": "622",
+        "Question": "A behavioral score of 0.110878 and demographic score of 0.024610 signal strong financial dependability.",
+        "Response": "0"
+    },
+    {
+        "Index": "500",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.115708, indicating a good financial history with a low demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "371",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, reflecting a stable financial behavior and a neutral demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "199",
+        "Question": "Creditworthiness holds at 0.102576 behavioral, complementing the 0.024366 demographic.",
+        "Response": "0"
+    },
+    {
+        "Index": "688",
+        "Question": "Behavioral and demographic scores of 0.106950 and 0.024344 suggest dependable financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "585",
+        "Question": "The individual has a demographic score of 0.022241 and a behavioral score of 0.108100, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "902",
+        "Question": "A higher demographic score (0.024610) with a solid financial behavior score (0.110878) indicates a relatively reliable borrower.",
+        "Response": "0"
+    },
+    {
+        "Index": "60",
+        "Question": "The behavioral score of 0.108948 helps validate the 0.016044 demo contribution.",
+        "Response": "1"
+    },
+    {
+        "Index": "329",
+        "Question": "The individual has a demographic score of 0.014992 and a behavioral score of 0.116158, indicating good financial responsibility alongside average demographic characteristics.",
+        "Response": "0"
+    },
+    {
+        "Index": "97",
+        "Question": "The behavioral score of 0.106950 helps reinforce the 0.024344 demo value.",
+        "Response": "1"
+    },
+    {
+        "Index": "313",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, showing good financial behavior despite a slightly lower demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "975",
+        "Question": "A solid demographic score (0.023081) with a steady financial behavior score (0.104719) indicates reliable financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "300",
+        "Question": "The individual has a demographic score of 0.024073 and a behavioral score of 0.090132, reflecting moderate financial responsibility with a slightly higher demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "278",
+        "Question": "The individual has a demographic score of 0.024344 and a behavioral score of 0.103176, suggesting good but not exceptional financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "925",
+        "Question": "A solid demographic score (0.023081) combined with a stable behavioral score (0.104137) suggests a reliable borrower.",
+        "Response": "1"
+    },
+    {
+        "Index": "602",
+        "Question": "A strong behavioral score of 0.110878 combined with a demographic score of 0.024610 reflects solid financial dependability.",
+        "Response": "0"
+    },
+    {
+        "Index": "440",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102126, reflecting solid financial habits despite an average demographic standing.",
+        "Response": "1"
+    },
+    {
+        "Index": "838",
+        "Question": "Moderate demographic score (0.023081) with a slightly better behavioral score (0.094743) reflects cautious credit behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "571",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.102091, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "880",
+        "Question": "Very low demographic score (0.002178) with a solid financial behavioral score (0.102349) shows moderate creditworthiness.",
+        "Response": "1"
+    },
+    {
+        "Index": "262",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, reflecting steady and reliable financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "579",
+        "Question": "The individual has a demographic score of 0.024366 and a behavioral score of 0.104263, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "24",
+        "Question": "The reliable behavioral score of 0.116666 overshadows the 0.021840 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "31",
+        "Question": "The repeated demo-behavioral pairing of 0.010340 and 0.101861 reiterates moderate behavioral creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "618",
+        "Question": "A decent behavioral score of 0.106950 and demographic score of 0.024344 indicate generally sound financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "11",
+        "Question": "A low demo score of 0.010340 is paired with a behavioral score of 0.101861, pointing to fair credit behavior despite weaker demographics.",
+        "Response": "0"
+    },
+    {
+        "Index": "222",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, reflecting good financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "821",
+        "Question": "Very low demographic score (0.010340) and a good behavioral score (0.101861) indicate a higher credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "297",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.092042, showing average demographics but relatively lower financial responsibility.",
+        "Response": "0"
+    },
+    {
+        "Index": "55",
+        "Question": "The 0.104999 behavioral score complements the demographic 0.023081 score.",
+        "Response": "0"
+    },
+    {
+        "Index": "543",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, indicating moderate financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "210",
+        "Question": "The individual has a demographic score of 0.013696 and a behavioral score of 0.120443, with the behavioral score indicating strong financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "605",
+        "Question": "Despite a fair demographic score of 0.022241, the behavioral score of 0.104719 suggests only average financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "693",
+        "Question": "A behavioral score of 0.108165 suggests consistent financial performance, while the demographic score of 0.008240 has minor influence.",
+        "Response": "1"
+    },
+    {
+        "Index": "663",
+        "Question": "Moderate behavioral score of 0.107208 supports stable financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "867",
+        "Question": "Moderate demographic score (0.021840) and a strong behavioral score (0.114644) suggest a borrower with stable credit behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "71",
+        "Question": "The recurring pair of 0.010340 and 0.101861 continues to show average reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "544",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111138, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "108",
+        "Question": "A behavioral score of 0.105873 supports the fair demographic input of 0.024077.",
+        "Response": "1"
+    },
+    {
+        "Index": "494",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, reflecting solid financial habits and a good demographic standing.",
+        "Response": "0"
+    },
+    {
+        "Index": "591",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.107773, indicating moderate financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "742",
+        "Question": "Solid demographic (0.024610) and behavioral (0.110878) scores indicate dependable financial conduct.",
+        "Response": "0"
+    },
+    {
+        "Index": "293",
+        "Question": "The individual has a demographic score of 0.008098 and a behavioral score of 0.115537, reflecting a good financial track record with slightly below-average demographics.",
+        "Response": "1"
+    },
+    {
+        "Index": "290",
+        "Question": "The individual has a demographic score of 0.024077 and a behavioral score of 0.107408, suggesting reliable financial behavior and a slightly better demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "653",
+        "Question": "A behavioral score of 0.108165 continues to show sound financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "40",
+        "Question": "The behavioral score of 0.111604 reinforces credit strength with a 0.024344 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "590",
+        "Question": "The individual has a demographic score of 0.013861 and a behavioral score of 0.109522, indicating moderate financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "308",
+        "Question": "The individual has a demographic score of 0.010329 and a behavioral score of 0.107081, reflecting average demographics with solid financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "680",
+        "Question": "Moderate reliability is reflected in behavioral and demographic scores of 0.104517 and 0.026020, respectively.",
+        "Response": "1"
+    },
+    {
+        "Index": "67",
+        "Question": "A very small demo score of 0.002178 is overridden by the behavioral score of 0.103025.",
+        "Response": "0"
+    },
+    {
+        "Index": "276",
+        "Question": "The individual has a demographic score of 0.001227 and a behavioral score of 0.109826, indicating improved financial responsibility.",
+        "Response": "1"
+    },
+    {
+        "Index": "68",
+        "Question": "A fair behavioral score of 0.106837 backs the 0.024030 demo mark.",
+        "Response": "1"
+    },
+    {
+        "Index": "319",
+        "Question": "The individual has a demographic score of 0.011981 and a behavioral score of 0.114130, indicating good financial responsibility and solid demographic traits.",
+        "Response": "0"
+    },
+    {
+        "Index": "549",
+        "Question": "The individual has a demographic score of 0.011981 and a behavioral score of 0.114107, indicating very strong financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "999",
+        "Question": "A stable demographic score (0.014913) with a high financial behavior score (0.115808) reflects a strong credit reputation.",
+        "Response": "1"
+    },
+    {
+        "Index": "715",
+        "Question": "A behavioral score of 0.104719 with fair demographics (0.023081) indicates average reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "754",
+        "Question": "Exceptional behavioral score (0.123749) makes up for fair demographics (0.021840).",
+        "Response": "0"
+    },
+    {
+        "Index": "328",
+        "Question": "The individual has a demographic score of 0.024022 and a behavioral score of 0.102523, showing stable financial habits with decent demographic traits.",
+        "Response": "0"
+    },
+    {
+        "Index": "383",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, indicating strong financial habits with a lower demographic standing.",
+        "Response": "1"
+    },
+    {
+        "Index": "452",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating stable financial habits with a moderate demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "523",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.108165, indicating strong financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "219",
+        "Question": "The individual has a demographic score of 0.011981 and a behavioral score of 0.114036, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "788",
+        "Question": "High behavioral score (0.111712) and supportive demographics (0.025736) suggest a dependable borrower.",
+        "Response": "0"
+    },
+    {
+        "Index": "437",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102906, showing low financial risk and a low demographic standing.",
+        "Response": "0"
+    },
+    {
+        "Index": "765",
+        "Question": "Average behavioral (0.104719) and fair demographic (0.023081) scores point to a cautious credit profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "89",
+        "Question": "A 0.103120 behavioral score maintains average credit health over a 0.023755 demo score.",
+        "Response": "1"
+    },
+    {
+        "Index": "64",
+        "Question": "With a behavioral score of 0.111893, credit is secure despite average demographics.",
+        "Response": "0"
+    },
+    {
+        "Index": "827",
+        "Question": "Very low demographic score (0.002178) with a fair behavioral score (0.102904) indicates a higher risk of credit defaults.",
+        "Response": "0"
+    },
+    {
+        "Index": "717",
+        "Question": "Low demographic (0.002178) and behavioral (0.102904) scores suggest a financially high-risk profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "352",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, showing a solid financial history and moderate demographic standing.",
+        "Response": "1"
+    },
+    {
+        "Index": "937",
+        "Question": "A very low demographic score (0.002178) with a stable financial behavior score (0.102904) suggests moderate credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "257",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102864, reflecting poor to average financial consistency.",
+        "Response": "1"
+    },
+    {
+        "Index": "636",
+        "Question": "A behavioral score of 0.102913 and a low demographic score of 0.003065 reflect weak financial trustworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "645",
+        "Question": "An average financial profile is reflected in behavioral (0.104719) and demographic (0.023081) scores.",
+        "Response": "0"
+    },
+    {
+        "Index": "555",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "960",
+        "Question": "A higher demographic score (0.049243) combined with a stable financial behavior score (0.118567) suggests low credit risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "169",
+        "Question": "Behavioral stagnation at 0.090128 is inadequate regardless of 0.026017 demo support.",
+        "Response": "0"
+    },
+    {
+        "Index": "918",
+        "Question": "A moderate demographic score (0.024030) with a solid behavioral score (0.107423) indicates slightly above-average credit behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "529",
+        "Question": "The individual has a demographic score of 0.024366 and a behavioral score of 0.105775, indicating moderate financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "824",
+        "Question": "Solid demographic score (0.021840) and a strong behavioral score (0.111891) suggest a trustworthy credit profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "986",
+        "Question": "A strong demographic score (0.058739) with an excellent financial behavior score (0.121892) suggests very low credit risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "817",
+        "Question": "Very low demographic score (0.002178) paired with a fair behavioral score (0.102349) indicates a high-risk profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "87",
+        "Question": "A behavioral score of 0.106898 confirms good credit actions beyond the 0.025736 demo value.",
+        "Response": "1"
+    },
+    {
+        "Index": "433",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, showing steady financial behavior with a lower demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "185",
+        "Question": "A moderate demo score of 0.023081 benefits from a 0.104137 behavioral value.",
+        "Response": "1"
+    },
+    {
+        "Index": "979",
+        "Question": "A moderate demographic score (0.019871) with a strong financial behavior score (0.102545) shows low credit risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "535",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "295",
+        "Question": "The individual has a demographic score of 0.024366 and a behavioral score of 0.104519, suggesting good financial behavior despite average demographic factors.",
+        "Response": "0"
+    },
+    {
+        "Index": "893",
+        "Question": "Strong demographic score (0.016044) with a high behavioral score (0.117402) suggests a dependable borrower with stable financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "426",
+        "Question": "The individual has a demographic score of 0.003065 and a behavioral score of 0.102881, reflecting steady financial habits with a low demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "714",
+        "Question": "This profile shows strong behavioral consistency (0.111891) with a fair demographic score (0.021840).",
+        "Response": "0"
+    },
+    {
+        "Index": "261",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, showing average financial responsibility.",
+        "Response": "0"
+    },
+    {
+        "Index": "238",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.106837, reflecting decent financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "560",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102194, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "584",
+        "Question": "The individual has a demographic score of 0.023616 and a behavioral score of 0.113613, indicating very strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "446",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, showing responsible financial behavior with a notably higher demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "868",
+        "Question": "High demographic score (0.023081) combined with a solid behavioral score (0.104586) indicates a fairly reliable borrower.",
+        "Response": "1"
+    },
+    {
+        "Index": "801",
+        "Question": "Low demographic score (0.010340) paired with a moderate behavioral score (0.107773) suggests a low-to-average credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "600",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.103004, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "850",
+        "Question": "Very low demographic score (0.002178) with a moderate behavioral score (0.105226) indicates higher credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "266",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, indicating very strong and consistent financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "996",
+        "Question": "A strong demographic score (0.058739) with an excellent financial behavior score (0.121657) represents a very low-risk credit profile.",
+        "Response": "1"
+    },
+    {
+        "Index": "530",
+        "Question": "The individual has a demographic score of 0.009598 and a behavioral score of 0.102099, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "56",
+        "Question": "Minimal demographic info at 0.001227 is overcome by a behavioral rating of 0.102913.",
+        "Response": "0"
+    },
+    {
+        "Index": "121",
+        "Question": "A 0.010340 demographic and 0.102091 behavioral score indicate ongoing average financial trust.",
+        "Response": "0"
+    },
+    {
+        "Index": "216",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.123850, suggesting excellent financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "26",
+        "Question": "A notably higher behavioral score of 0.118166 overcomes the weak 0.055721 demo score.",
+        "Response": "1"
+    },
+    {
+        "Index": "73",
+        "Question": "Low demographic presence at 0.008240 is compensated by a behavioral score of 0.108165.",
+        "Response": "1"
+    },
+    {
+        "Index": "45",
+        "Question": "The behavioral strength at 0.104719 surpasses the moderate 0.022241 demo level.",
+        "Response": "0"
+    },
+    {
+        "Index": "248",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.106950, reflecting moderately good financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "722",
+        "Question": "Strong financial reliability (0.110878) and good demographics (0.024610) support good creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "282",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating good financial behavior and average demographics.",
+        "Response": "0"
+    },
+    {
+        "Index": "894",
+        "Question": "Average demographic score (0.010340) combined with a strong financial behavior score (0.102139) indicates a borrower with consistent credit behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "915",
+        "Question": "A high demographic score (0.023081) with a good financial behavior score (0.104719) indicates consistent credit habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "811",
+        "Question": "Very low demographic score (0.010340) with a lower behavioral score (0.101861) reflects high credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "245",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104137, reflecting modest financial performance.",
+        "Response": "0"
+    },
+    {
+        "Index": "823",
+        "Question": "Low demographic score (0.008240) with an above-average behavioral score (0.108165) shows moderate credit potential.",
+        "Response": "1"
+    },
+    {
+        "Index": "322",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, reflecting strong financial behavior alongside solid demographic characteristics.",
+        "Response": "0"
+    },
+    {
+        "Index": "644",
+        "Question": "Strong financial reliability is evident with behavioral (0.111138) and demographic (0.021840) scores.",
+        "Response": "0"
+    },
+    {
+        "Index": "159",
+        "Question": "Credit strength is driven by behavioral 0.104519, over a 0.024366 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "978",
+        "Question": "A solid demographic score (0.024344) with a stable financial behavior score (0.107481) reflects good financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "430",
+        "Question": "The individual has a demographic score of 0.013696 and a behavioral score of 0.117000, reflecting consistent financial behavior with an average demographic standing.",
+        "Response": "1"
+    },
+    {
+        "Index": "942",
+        "Question": "A moderate demographic score (0.024610) with a good financial behavior score (0.110878) suggests reliable credit performance.",
+        "Response": "0"
+    },
+    {
+        "Index": "463",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, showing steady financial practices with a low demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "310",
+        "Question": "The individual has a demographic score of 0.017419 and a behavioral score of 0.102151, showing decent demographics and average financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "698",
+        "Question": "A behavioral score of 0.106950 and demographic score of 0.025736 reflect solid, consistent financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "61",
+        "Question": "Yet again, the consistent 0.010340 demo score aligns with behavioral reliability at 0.101861.",
+        "Response": "0"
+    },
+    {
+        "Index": "885",
+        "Question": "Strong demographic score (0.024610) combined with a good financial behavior score (0.110878) suggests a reliable credit history.",
+        "Response": "1"
+    },
+    {
+        "Index": "596",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, indicating excellent financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "768",
+        "Question": "Low demographic score (0.013861) is countered by solid financial behavior (0.102906), suggesting cautious optimism.",
+        "Response": "0"
+    },
+    {
+        "Index": "650",
+        "Question": "Behavioral (0.105380) and demographic (0.008530) scores show consistent but moderate reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "651",
+        "Question": "Again, a low behavioral score of 0.101861 indicates weak financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "866",
+        "Question": "Low demographic score (0.008240) and a good financial behavior score (0.108165) show an average risk borrower.",
+        "Response": "1"
+    },
+    {
+        "Index": "669",
+        "Question": "Limited financial reliability is indicated by behavioral (0.102639) and demographic (0.025310) scores.",
+        "Response": "1"
+    },
+    {
+        "Index": "299",
+        "Question": "The individual has a demographic score of 0.001449 and a behavioral score of 0.118581, suggesting a strong financial record despite a lower demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "690",
+        "Question": "Behavioral score of 0.103057 and demographic score of 0.022456 point to marginal financial trustworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "315",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, reflecting good financial responsibility and solid demographic characteristics.",
+        "Response": "0"
+    },
+    {
+        "Index": "311",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, demonstrating average demographics and solid financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "362",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, showing a consistent financial history alongside an above-average demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "480",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.115708, reflecting solid financial practices with a low demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "111",
+        "Question": "Repeating 0.010340 demo and 0.101861 behavioral, financial habits show consistency.",
+        "Response": "0"
+    },
+    {
+        "Index": "990",
+        "Question": "A moderate demographic score (0.022183) with an excellent financial behavior score (0.117424) suggests very good creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "487",
+        "Question": "The individual has a demographic score of 0.013861 and a behavioral score of 0.102023, showing steady financial habits despite a slightly higher demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "364",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111138, indicating responsible financial behavior with a relatively higher demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "255",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, suggesting moderately stable financial habits.",
+        "Response": "1"
+    },
+    {
+        "Index": "260",
+        "Question": "The individual has a demographic score of 0.016044 and a behavioral score of 0.117424, reflecting excellent financial behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "803",
+        "Question": "Low demographic score (0.008240) and a good behavioral score (0.110971) show a balanced risk level.",
+        "Response": "1"
+    },
+    {
+        "Index": "678",
+        "Question": "Slight financial reliability is indicated by behavioral and demographic scores of 0.102475 and 0.008147, respectively.",
+        "Response": "0"
+    },
+    {
+        "Index": "495",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, showing a higher demographic score with above-average financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "671",
+        "Question": "A repeated low behavioral score of 0.101861 and demographic score of 0.010340 reflect weak financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "378",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.107457, showing solid financial history and a favorable demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "527",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102864, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "846",
+        "Question": "Low demographic score (0.008240) and slightly higher behavioral score (0.090238) suggest a cautious borrower.",
+        "Response": "1"
+    },
+    {
+        "Index": "138",
+        "Question": "A behavioral score of 0.106898 balances the 0.025736 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "356",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, showing exceptional financial habits and a favorable demographic standing.",
+        "Response": "1"
+    },
+    {
+        "Index": "366",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, reflecting excellent financial habits and a highly favorable demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "943",
+        "Question": "A low demographic score (0.008240) with a solid financial behavior score (0.108165) shows financial stability despite demographic factors.",
+        "Response": "1"
+    },
+    {
+        "Index": "750",
+        "Question": "Modest scores in both categories (0.023755 demo, 0.102194 behavior) indicate financial caution.",
+        "Response": "1"
+    },
+    {
+        "Index": "949",
+        "Question": "A moderate demographic score (0.019871) with a stable financial behavior score (0.102576) suggests average credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "830",
+        "Question": "Good behavioral score (0.116194) with a low demographic score (0.026017) shows moderate creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "657",
+        "Question": "A low behavioral score of 0.102904 continues to reflect weak financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "200",
+        "Question": "Finally, 0.114332 behavioral score gives the decisive edge over a 0.016044 demo.",
+        "Response": "1"
+    },
+    {
+        "Index": "214",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111893, reflecting solid financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "409",
+        "Question": "The individual has a demographic score of 0.025501 and a behavioral score of 0.102605, showing moderate financial behavior with a higher-than-average demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "333",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, showcasing good financial behavior despite a lower demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "209",
+        "Question": "The individual has a demographic score of 0.025286 and a behavioral score of 0.118750, with the behavioral score indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "614",
+        "Question": "Excellent behavioral (0.111891) and demographic (0.021840) scores reflect a highly reliable financial profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "79",
+        "Question": "With a 0.102605 behavioral score, the 0.025310 demo input supports credit stability.",
+        "Response": "1"
+    },
+    {
+        "Index": "30",
+        "Question": "A behavioral score of 0.116492 signals robust financial management despite a 0.021713 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "536",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, indicating excellent financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "696",
+        "Question": "Top-tier financial dependability is represented by a high behavioral score of 0.121892 and strong demographic score of 0.058739.",
+        "Response": "1"
+    },
+    {
+        "Index": "558",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.107481, indicating moderate financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "837",
+        "Question": "Moderate demographic score (0.021840) with a strong behavioral score (0.116254) suggests a stable credit profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "597",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.104740, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "166",
+        "Question": "The pair 0.003065 and 0.118200 shows behavior-led credit credibility.",
+        "Response": "0"
+    },
+    {
+        "Index": "919",
+        "Question": "A lower demographic score (0.014913) with a stable behavioral score (0.115808) indicates consistent credit behavior despite demographic challenges.",
+        "Response": "0"
+    },
+    {
+        "Index": "496",
+        "Question": "The individual has a demographic score of 0.026017 and a behavioral score of 0.116194, indicating strong financial habits with a good demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "825",
+        "Question": "Moderate demographic score (0.023081) combined with a good behavioral score (0.104719) suggests a moderate credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "66",
+        "Question": "A repeated high behavioral score of 0.123850 compensates for a 0.058739 demo score.",
+        "Response": "1"
+    },
+    {
+        "Index": "142",
+        "Question": "A demo score of 0.024610 benefits from a behavioral boost of 0.117850.",
+        "Response": "0"
+    },
+    {
+        "Index": "926",
+        "Question": "A very low demographic score (0.001227) with a stable financial behavior score (0.102913) suggests moderate financial risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "828",
+        "Question": "High behavioral score (0.106940) combined with a solid demographic score (0.025736) suggests a reliable borrower.",
+        "Response": "0"
+    },
+    {
+        "Index": "656",
+        "Question": "Exceptional scores (0.121892 behavioral, 0.058739 demographic) confirm top-tier financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "332",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, reflecting strong financial habits with a solid demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "665",
+        "Question": "A strong behavioral score of 0.113663 outweighs a fair demographic score of 0.023081, showing high reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "250",
+        "Question": "The individual has a demographic score of 0.016044 and a behavioral score of 0.110857, indicating strong and consistent financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "908",
+        "Question": "A moderate demographic score (0.023546) with a solid financial behavior score (0.106929) suggests steady credit behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "709",
+        "Question": "Despite a good demographic score (0.024366), the behavioral score of 0.102576 indicates limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "306",
+        "Question": "The individual has a demographic score of 0.003065 and a behavioral score of 0.111073, reflecting a lower demographic score with strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "735",
+        "Question": "Despite fair demographics (0.023081), the behavioral score of 0.104137 places this profile at average credit reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "976",
+        "Question": "A strong demographic score (0.055721) with a solid financial behavior score (0.121657) reflects very low credit risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "50",
+        "Question": "A behavioral score of 0.118965 far outweighs the 0.017054 demo contribution.",
+        "Response": "1"
+    },
+    {
+        "Index": "897",
+        "Question": "High demographic score (0.024073) with a lower financial behavior score (0.090128) reflects a borrower with good background but inconsistent financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "3",
+        "Question": "Though the demographical score is minimal at 0.008240, the behavioral score of 0.107051 shows consistent financial responsibility.",
+        "Response": "1"
+    },
+    {
+        "Index": "545",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "351",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, reflecting a baseline financial behavior with a standard demographic profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "905",
+        "Question": "A high demographic score (0.023081) with a stable financial behavior score (0.104719) suggests solid creditworthiness.",
+        "Response": "0"
+    },
+    {
+        "Index": "537",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102904, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "345",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, suggesting balanced financial habits and a solid demographic foundation.",
+        "Response": "0"
+    },
+    {
+        "Index": "995",
+        "Question": "A stable demographic score (0.023081) with a moderate financial behavior score (0.104719) reflects steady financial conduct.",
+        "Response": "0"
+    },
+    {
+        "Index": "482",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.108165, indicating consistent financial behavior despite a low demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "576",
+        "Question": "The individual has a demographic score of 0.001227 and a behavioral score of 0.104049, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "34",
+        "Question": "With a 0.111893 behavioral score, financial actions are well-established over the 0.021840 demo value.",
+        "Response": "0"
+    },
+    {
+        "Index": "32",
+        "Question": "A behavioral score of 0.110878 again supports the demographic input of 0.024610.",
+        "Response": "0"
+    },
+    {
+        "Index": "232",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, reflecting sound financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "964",
+        "Question": "A moderate demographic score (0.021840) with a strong financial behavior score (0.112352) indicates low financial risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "193",
+        "Question": "Behavior at 0.107321 makes the low 0.008240 demo less relevant.",
+        "Response": "1"
+    },
+    {
+        "Index": "334",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111138, reflecting a balanced combination of above-average demographics and strong financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "4",
+        "Question": "A moderate demo score of 0.021840 is enhanced by a solid behavioral score of 0.116666, indicating sound financial behavior.",
+        "Response": "0"
+    },
+    {
+        "Index": "205",
+        "Question": "The individual has a demographic score of 0.022241 and a behavioral score of 0.113501, with the behavioral score indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "515",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "800",
+        "Question": "Low scores in both demographic (0.010340) and behavioral (0.101861) categories suggest limited trustworthiness.",
+        "Response": "1"
+    },
+    {
+        "Index": "307",
+        "Question": "The individual has a demographic score of 0.024460 and a behavioral score of 0.102380, showing good financial responsibility with slightly better demographic traits.",
+        "Response": "1"
+    },
+    {
+        "Index": "110",
+        "Question": "A demo score of 0.044824 is elevated by a behavioral strength of 0.114332.",
+        "Response": "1"
+    },
+    {
+        "Index": "431",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, indicating consistent financial behavior with a low demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "78",
+        "Question": "Behavioral consistency at 0.106929 offsets a 0.023546 demo rating.",
+        "Response": "0"
+    },
+    {
+        "Index": "85",
+        "Question": "The behavioral score of 0.123850 offsets the relatively high 0.058739 demo score.",
+        "Response": "0"
+    },
+    {
+        "Index": "287",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.102904, indicating modest financial behavior and average demographics.",
+        "Response": "0"
+    },
+    {
+        "Index": "83",
+        "Question": "A higher behavioral score of 0.111893 improves the outlook over a 0.021840 demo score.",
+        "Response": "1"
+    },
+    {
+        "Index": "992",
+        "Question": "A moderate demographic score (0.024610) with a solid financial behavior score (0.110878) reflects a dependable credit profile.",
+        "Response": "0"
+    },
+    {
+        "Index": "790",
+        "Question": "Excellent behavioral reliability (0.124110) makes up for modest demographics (0.016044).",
+        "Response": "0"
+    },
+    {
+        "Index": "895",
+        "Question": "Solid demographic score (0.024610) with a lower behavioral score (0.090128) may point to a borrower with potential financial instability.",
+        "Response": "1"
+    },
+    {
+        "Index": "399",
+        "Question": "The individual has a demographic score of 0.011981 and a behavioral score of 0.114130, indicating stable financial habits along with a favorable demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "324",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111138, indicating good financial responsibility and above-average demographic traits.",
+        "Response": "0"
+    },
+    {
+        "Index": "520",
+        "Question": "The individual has a demographic score of 0.018048 and a behavioral score of 0.102192, indicating limited financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "917",
+        "Question": "A very low demographic score (0.002178) paired with a solid financial behavior score (0.102904) suggests moderate risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "923",
+        "Question": "A low demographic score (0.008240) with a reliable financial behavior score (0.108165) suggests consistent credit habits despite demographic factors.",
+        "Response": "1"
+    },
+    {
+        "Index": "6",
+        "Question": "Despite a very low demo score of 0.001227, the behavioral score of 0.104049 highlights strong financial discipline.",
+        "Response": "0"
+    },
+    {
+        "Index": "732",
+        "Question": "Strong financial behavior (0.110878) supported by a solid demographic score (0.024610) reflects good credit reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "466",
+        "Question": "The individual has a demographic score of 0.058739 and a behavioral score of 0.121657, indicating strong financial practices and a higher demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "98",
+        "Question": "A 0.107955 behavioral score upholds credit trust with a 0.011981 demographic rating.",
+        "Response": "0"
+    },
+    {
+        "Index": "267",
+        "Question": "The individual has a demographic score of 0.002178 and a behavioral score of 0.115812, showing better-than-expected financial responsibility.",
+        "Response": "0"
+    },
+    {
+        "Index": "358",
+        "Question": "The individual has a demographic score of 0.025736 and a behavioral score of 0.107457, reflecting a decent financial history with an above-average demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "869",
+        "Question": "Excellent demographic score (0.058739) and an exceptional behavioral score (0.121623) suggest a very low-risk individual.",
+        "Response": "0"
+    },
+    {
+        "Index": "799",
+        "Question": "Conservative behavioral (0.102194) and demographic (0.023755) scores indicate a cautious credit user.",
+        "Response": "0"
+    },
+    {
+        "Index": "381",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, showing a steady financial track record with a neutral demographic background.",
+        "Response": "0"
+    },
+    {
+        "Index": "632",
+        "Question": "Again, 0.110878 behavioral and 0.024610 demographic scores suggest strong reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "382",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, demonstrating responsible financial behavior with a slightly above-average demographic standing.",
+        "Response": "0"
+    },
+    {
+        "Index": "491",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating an average financial situation with good financial habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "119",
+        "Question": "A moderate behavioral score of 0.102572 complements the 0.025310 demo input.",
+        "Response": "1"
+    },
+    {
+        "Index": "901",
+        "Question": "A low demographic score (0.010340) combined with a stable financial behavior score (0.101861) shows moderate credit risk.",
+        "Response": "0"
+    },
+    {
+        "Index": "251",
+        "Question": "The individual has a demographic score of 0.010340 and a behavioral score of 0.101861, indicating limited financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "524",
+        "Question": "The individual has a demographic score of 0.021840 and a behavioral score of 0.111891, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "10",
+        "Question": "A demo score of 0.018048 is backed by a responsible behavioral score of 0.105165.",
+        "Response": "1"
+    },
+    {
+        "Index": "197",
+        "Question": "Despite low demographics of 0.002178, financial behavior remains sound at 0.103028.",
+        "Response": "1"
+    },
+    {
+        "Index": "604",
+        "Question": "An excellent behavioral score of 0.116352 outweighs the modest demographic score of 0.010654, indicating very high financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "82",
+        "Question": "Repeating the 0.024610 and 0.110878 pair continues to reflect sound financial patterns.",
+        "Response": "0"
+    },
+    {
+        "Index": "784",
+        "Question": "Excellent behavioral score (0.123749) significantly boosts this profile, even with average demographics (0.021840).",
+        "Response": "0"
+    },
+    {
+        "Index": "588",
+        "Question": "The individual has a demographic score of 0.024022 and a behavioral score of 0.105708, indicating moderate financial reliability.",
+        "Response": "1"
+    },
+    {
+        "Index": "798",
+        "Question": "Good behavioral performance (0.114130) compensates for a weaker demographic score (0.011981).",
+        "Response": "0"
+    },
+    {
+        "Index": "240",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102214, indicating limited financial responsibility.",
+        "Response": "1"
+    },
+    {
+        "Index": "291",
+        "Question": "The individual has a demographic score of 0.022183 and a behavioral score of 0.103542, indicating average financial behavior with solid demographic factors.",
+        "Response": "0"
+    },
+    {
+        "Index": "212",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, suggesting moderate to strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "718",
+        "Question": "Moderate behavioral reliability (0.106940) is supported by a decent demographic score of 0.025736.",
+        "Response": "0"
+    },
+    {
+        "Index": "360",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.102194, showcasing a good financial history and a slightly better-than-average demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "450",
+        "Question": "The individual has a demographic score of 0.023755 and a behavioral score of 0.103987, reflecting balanced financial habits despite a moderate demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "228",
+        "Question": "The individual has a demographic score of 0.024344 and a behavioral score of 0.106940, suggesting modest financial strength.",
+        "Response": "0"
+    },
+    {
+        "Index": "951",
+        "Question": "A low demographic score (0.010340) with a steady financial behavior score (0.101861) shows consistent credit habits.",
+        "Response": "0"
+    },
+    {
+        "Index": "947",
+        "Question": "A low demographic score (0.012569) with a good financial behavior score (0.115537) suggests reliable financial habits.",
+        "Response": "1"
+    },
+    {
+        "Index": "797",
+        "Question": "Strong behavioral (0.107457) and fair demographic (0.025736) scores suggest dependable credit behavior.",
+        "Response": "1"
+    },
+    {
+        "Index": "502",
+        "Question": "The individual has a demographic score of 0.024610 and a behavioral score of 0.110878, indicating strong financial reliability.",
+        "Response": "0"
+    },
+    {
+        "Index": "465",
+        "Question": "The individual has a demographic score of 0.023081 and a behavioral score of 0.104719, displaying stable financial behavior with a slightly above-average demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "363",
+        "Question": "The individual has a demographic score of 0.008240 and a behavioral score of 0.107321, highlighting a strong financial history despite a lower demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "469",
+        "Question": "The individual has a demographic score of 0.022241 and a behavioral score of 0.117402, reflecting strong financial behavior with a moderately high demographic score.",
+        "Response": "1"
+    },
+    {
+        "Index": "936",
+        "Question": "A strong demographic score (0.058739) with a solid financial behavior score (0.121589) points to very low credit risk.",
+        "Response": "1"
+    },
+    {
+        "Index": "429",
+        "Question": "The individual has a demographic score of 0.025286 and a behavioral score of 0.107432, showing responsible financial habits alongside a slightly above-average demographic score.",
+        "Response": "0"
+    },
+    {
+        "Index": "8",
+        "Question": "High behavioral creditworthiness at 0.124053 outweighs the demographic input of 0.025736.",
+        "Response": "0"
+    },
+    {
+        "Index": "156",
+        "Question": "Minimal demographic presence at 0.001227 is improved by behavioral value of 0.104049.",
+        "Response": "0"
+    }
+]

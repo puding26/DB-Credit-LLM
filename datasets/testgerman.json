@@ -1,0 +1,1502 @@
+[
+    {
+        "Question": "With a demographical score of 0.038936 and a financial behavioral score of 0.076790, financial behavior is prioritized.",
+        "Index": "521",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.038123 is overshadowed by the financial behavioral score of 0.076886.  ",
+        "Index": "737",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.029937 is paired with a financial behavioral score of 0.076865, highlighting the latter's importance.  ",
+        "Index": "740",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.040303 is paired with a more crucial financial behavioral score of 0.083047.  ",
+        "Index": "660",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.030273 is paired with a financial behavioral score of 0.085611, emphasizing financial behavior.",
+        "Index": "411",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027988, the financial behavioral score of 0.076680 is more significant.  ",
+        "Index": "678",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.038295 is less significant compared to the financial behavioral score of 0.082991.  ",
+        "Index": "626",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.039655 is coupled with a financial behavioral score of 0.079758, emphasizing financial behavior.",
+        "Index": "513",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.005230 is accompanied by a financial behavioral score of 0.086444, emphasizing financial behavior.",
+        "Index": "859",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038390 is paired with a financial behavioral score of 0.085999, emphasizing financial behavior.",
+        "Index": "136",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.029578 and a financial behavioral score of 0.079331, financial behavior is more significant.",
+        "Index": "811",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.047044 is paired with a financial behavioral score of 0.076533, emphasizing the latter.",
+        "Index": "76",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.030712 is paired with a more crucial financial behavioral score of 0.085479.  ",
+        "Index": "636",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027343 is less significant compared to the financial behavioral score of 0.076166.",
+        "Index": "973",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.038209 and a financial behavioral score of 0.078997, financial behavior takes precedence.",
+        "Index": "938",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038382 is accompanied by a financial behavioral score of 0.077140, emphasizing financial behavior.",
+        "Index": "899",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.027457 is paired with a financial behavioral score of 0.085811, highlighting the importance of financial behavior.",
+        "Index": "280",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.048333 is overshadowed by the financial behavioral score of 0.085321.",
+        "Index": "883",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.039507 is overshadowed by the financial behavioral score of 0.077931.  ",
+        "Index": "761",
+        "Response": "1"
+    },
+    {
+        "Question": "Very low demo (0.0280) with modest behavioral score (0.0774) suggests limited financial maturity.",
+        "Index": "319",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.030007 is linked to a financial behavioral score of 0.086530, underscoring the importance of financial behavior.",
+        "Index": "549",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.048037 is less significant compared to the financial behavioral score of 0.076713.",
+        "Index": "174",
+        "Response": "1"
+    },
+    {
+        "Question": "A very low demo score (0.0275) and high behavioral score (0.0856) indicate strong financial habits.",
+        "Index": "371",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.030158 is associated with a financial behavioral score of 0.086403, highlighting financial behavior.",
+        "Index": "527",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039335 is less influential compared to the financial behavioral score of 0.086475.",
+        "Index": "210",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.051716 and a financial behavioral score of 0.077394, the latter is more critical.",
+        "Index": "235",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.029974 and a financial behavioral score of 0.079212, the financial behavior is prioritized.",
+        "Index": "101",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.047109 and a financial behavioral score of 0.083931, financial behavior takes precedence.",
+        "Index": "986",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027617 is accompanied by a financial behavioral score of 0.086155, highlighting the importance of financial behavior.",
+        "Index": "902",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.051284 is overshadowed by the financial behavioral score of 0.086254.",
+        "Index": "947",
+        "Response": "0"
+    },
+    {
+        "Question": "High demographic (0.0474) and behavioral (0.0800) scores imply overall solid financial standing.",
+        "Index": "346",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038132 is less important than the financial behavioral score of 0.083065.",
+        "Index": "139",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.038798 is overshadowed by the financial behavioral score of 0.084961.  ",
+        "Index": "621",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.027444 is paired with a financial behavioral score of 0.083294, underscoring the priority of financial behavior.",
+        "Index": "499",
+        "Response": "0"
+    },
+    {
+        "Question": "A moderate demo score (0.0389) and a very strong behavioral score (0.0866) reflect excellent financial reliability.",
+        "Index": "370",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027358 is less significant compared to the financial behavioral score of 0.078886.",
+        "Index": "198",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027411 is less important than the financial behavioral score of 0.079067.  ",
+        "Index": "687",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027324 is linked to a financial behavioral score of 0.086234, underscoring the significance of financial behavior.",
+        "Index": "584",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.048237 and a financial behavioral score of 0.086189, the financial behavior is notably more significant.",
+        "Index": "901",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.049583, the financial behavioral score of 0.077251 is prioritized.",
+        "Index": "59",
+        "Response": "1"
+    },
+    {
+        "Question": "The person has a low demographic score (0.0274) but strong behavioral habits with a score of 0.0832.",
+        "Index": "328",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.031208, the financial behavioral score of 0.085585 takes precedence.",
+        "Index": "96",
+        "Response": "0"
+    },
+    {
+        "Question": "The person has a good demo score (0.0452) and a strong behavioral score (0.0831), indicating consistency.",
+        "Index": "312",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.038913 and a financial behavioral score of 0.086387, financial behavior is more important.",
+        "Index": "974",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.030629 and a financial behavioral score of 0.079655, the latter is more critical.",
+        "Index": "299",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.027384 is overshadowed by the financial behavioral score of 0.077265.",
+        "Index": "277",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.045760 is paired with a financial behavioral score of 0.077901, emphasizing financial behavior.",
+        "Index": "924",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.038622 is accompanied by a financial behavioral score of 0.079364, emphasizing the significance of financial behavior.  ",
+        "Index": "601",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.047971 is paired with a financial behavioral score of 0.083277, underscoring the priority of financial behavior.",
+        "Index": "439",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.049810 is less impactful compared to the financial behavioral score of 0.086561.",
+        "Index": "837",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.049987 is paired with a financial behavioral score of 0.076870, showing the priority of financial behavior.",
+        "Index": "570",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.030262 is accompanied by a financial behavioral score of 0.086121, emphasizing financial behavior.",
+        "Index": "879",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.027609 is overshadowed by the financial behavioral score of 0.076692.",
+        "Index": "261",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.045620 is coupled with a financial behavioral score of 0.079776, emphasizing financial behavior.",
+        "Index": "578",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.046871 is paired with a more important financial behavioral score of 0.079047.",
+        "Index": "23",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.043794 is less significant than the financial behavioral score of 0.080122.",
+        "Index": "30",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.039385 is accompanied by a financial behavioral score of 0.077391, which is more critical.  ",
+        "Index": "617",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.044255 is less critical compared to the financial behavioral score of 0.079417.",
+        "Index": "10",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.039758 is overshadowed by the financial behavioral score of 0.078430.",
+        "Index": "221",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.037766 is less significant compared to the financial behavioral score of 0.085346.",
+        "Index": "820",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.046805 is paired with a financial behavioral score of 0.086047, highlighting the importance of financial behavior.",
+        "Index": "296",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027303 is less significant than the financial behavioral score of 0.079586.",
+        "Index": "54",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.027420 is associated with a financial behavioral score of 0.077016, highlighting financial behavior.",
+        "Index": "542",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.030097 is accompanied by a financial behavioral score of 0.085739, emphasizing financial behavior's priority.",
+        "Index": "209",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.046717 is paired with a more crucial financial behavioral score of 0.082977.  ",
+        "Index": "604",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.046702 is paired with a more crucial financial behavioral score of 0.079454.  ",
+        "Index": "692",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027446, the financial behavioral score of 0.085866 is more significant.  ",
+        "Index": "662",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.047704 and a financial behavioral score of 0.076713, financial behavior remains more crucial.",
+        "Index": "866",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038667 is less significant than the financial behavioral score of 0.085240.",
+        "Index": "70",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.039682 is coupled with a financial behavioral score of 0.083237, emphasizing financial behavior.",
+        "Index": "543",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.030475 is less important than the financial behavioral score of 0.080062.",
+        "Index": "107",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027395 and a financial behavioral score of 0.079954, financial behavior is prioritized.",
+        "Index": "493",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030566 is paired with a financial behavioral score of 0.078381, showing the priority of financial behavior.",
+        "Index": "590",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038118 is accompanied by a financial behavioral score of 0.079381, emphasizing the significance of financial behavior.  ",
+        "Index": "741",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027385 is paired with a financial behavioral score of 0.077378, underscoring the importance of financial behavior.",
+        "Index": "292",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.047057 is accompanied by a financial behavioral score of 0.076456, emphasizing financial behavior's priority.",
+        "Index": "289",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.027418 is paired with a more crucial financial behavioral score of 0.077035.  ",
+        "Index": "652",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.038886 is paired with a more important financial behavioral score of 0.079339.",
+        "Index": "39",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027680 is linked to a financial behavioral score of 0.078039, underscoring the importance of financial behavior.",
+        "Index": "589",
+        "Response": "1"
+    },
+    {
+        "Question": "A higher demo score of 0.0452 contrasts a modest behavioral score of 0.0772, showing room for financial improvement.",
+        "Index": "307",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.048142 is less important than the financial behavioral score of 0.085344.  ",
+        "Index": "679",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.048972 is less critical compared to the financial behavioral score of 0.085296.",
+        "Index": "66",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.039346 and a financial behavioral score of 0.086551, the latter is more critical.",
+        "Index": "275",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.039584, the financial behavioral score of 0.078774 is prioritized.",
+        "Index": "67",
+        "Response": "0"
+    },
+    {
+        "Question": "A demo score of 0.0386 is coupled with a strong behavioral score of 0.0856, indicating reliable habits.",
+        "Index": "318",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.037627 is coupled with a financial behavioral score of 0.076828, emphasizing financial behavior.",
+        "Index": "548",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.038109 and a financial behavioral score of 0.076435, financial behavior is more important.",
+        "Index": "998",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.030224, the financial behavioral score of 0.080177 is more crucial.  ",
+        "Index": "714",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.030767 is overshadowed by the financial behavioral score of 0.085862.  ",
+        "Index": "753",
+        "Response": "0"
+    },
+    {
+        "Question": "Despite a low demo score of 0.0300, the high behavioral score of 0.0860 indicates solid financial trust.",
+        "Index": "327",
+        "Response": "0"
+    },
+    {
+        "Question": "A low demo score (0.0301) and very strong behavioral score (0.0863) suggest behavior is a major credit strength.",
+        "Index": "382",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039039 is paired with a financial behavioral score of 0.085084, underscoring the priority of financial behavior.",
+        "Index": "451",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.037951 is associated with a financial behavioral score of 0.077810, highlighting financial behavior.",
+        "Index": "522",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.039164 is less influential compared to the financial behavioral score of 0.076844.",
+        "Index": "218",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027410 is less significant compared to the financial behavioral score of 0.085910.  ",
+        "Index": "787",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.029099 is overshadowed by the financial behavioral score of 0.085024.",
+        "Index": "436",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030822 is paired with a financial behavioral score of 0.085416, highlighting the latter's importance.  ",
+        "Index": "764",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.030119, the financial behavioral score of 0.076805 takes precedence.",
+        "Index": "88",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.038006 is paired with a more important financial behavioral score of 0.079899.",
+        "Index": "63",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.027448 and a financial behavioral score of 0.078373, financial behavior remains more crucial.",
+        "Index": "826",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.027506 is paired with a financial behavioral score of 0.086104, highlighting the latter's importance.  ",
+        "Index": "716",
+        "Response": "0"
+    },
+    {
+        "Question": "With a solid demo score of 0.0414 and a fair behavioral score of 0.0794, the profile is generally dependable.",
+        "Index": "351",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038951 is paired with a financial behavioral score of 0.083017, highlighting financial behavior.",
+        "Index": "936",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.039103 is paired with a financial behavioral score of 0.085600, highlighting the importance of financial behavior.",
+        "Index": "256",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027459, the financial behavioral score of 0.087252 takes precedence.  ",
+        "Index": "635",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.030531 is paired with a more crucial financial behavioral score of 0.077789.  ",
+        "Index": "644",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.030409 is linked to a financial behavioral score of 0.079018, underscoring the significance of financial behavior.",
+        "Index": "554",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027538 is overshadowed by the financial behavioral score of 0.079432.",
+        "Index": "959",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.029447 is paired with a financial behavioral score of 0.085488, emphasizing financial behavior.",
+        "Index": "168",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027346 is less significant compared to the financial behavioral score of 0.079771.",
+        "Index": "917",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.038660 is coupled with a financial behavioral score of 0.076547, emphasizing financial behavior.",
+        "Index": "528",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.027433 is overshadowed by the financial behavioral score of 0.078528.",
+        "Index": "823",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.038614 is less significant compared to the financial behavioral score of 0.078065.",
+        "Index": "985",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.037228 and a financial behavioral score of 0.085099, financial behavior remains more crucial.",
+        "Index": "816",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.047026 is less significant than the financial behavioral score of 0.080002.",
+        "Index": "86",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.051055 is less influential compared to the financial behavioral score of 0.078506.",
+        "Index": "432",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027360 is paired with a financial behavioral score of 0.079075, emphasizing financial behavior.",
+        "Index": "184",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.027465 and a financial behavioral score of 0.085710, financial behavior takes precedence.",
+        "Index": "978",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.046856 is linked to a financial behavioral score of 0.086169, underscoring the significance of financial behavior.",
+        "Index": "534",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027314 and a financial behavioral score of 0.085980, financial behavior takes precedence.",
+        "Index": "294",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.037516 is paired with a financial behavioral score of 0.078336, highlighting financial behavior.",
+        "Index": "892",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.037515 and a financial behavioral score of 0.079477, financial behavior is more significant.",
+        "Index": "425",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.038621 is overshadowed by the financial behavioral score of 0.078012.  ",
+        "Index": "713",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.039269 is paired with a financial behavioral score of 0.076764, underscoring the importance of financial behavior.",
+        "Index": "260",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.028571 is overshadowed by the financial behavioral score of 0.079208.",
+        "Index": "237",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.048990 is linked to a financial behavioral score of 0.079973, underscoring the importance of financial behavior.",
+        "Index": "559",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.044925 is coupled with a financial behavioral score of 0.079064, emphasizing financial behavior.",
+        "Index": "583",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographic score of 0.027436 and a financial behavioral score of 0.085365, financial behavior is prioritized.",
+        "Index": "445",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027576 is less impactful compared to the financial behavioral score of 0.085951.",
+        "Index": "867",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027466 is paired with a financial behavioral score of 0.086219, indicating a stronger emphasis on financial behavior.",
+        "Index": "800",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038724 is linked to a financial behavioral score of 0.086550, underscoring the importance of financial behavior.",
+        "Index": "599",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027785 is accompanied by a financial behavioral score of 0.076730, emphasizing financial behavior.",
+        "Index": "849",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.027411 is accompanied by a financial behavioral score of 0.079079, emphasizing financial behavior's priority.",
+        "Index": "265",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.030687 is overshadowed by the financial behavioral score of 0.085089.",
+        "Index": "995",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.046090 is linked to a financial behavioral score of 0.075117, underscoring the importance of financial behavior.",
+        "Index": "529",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.035838 is paired with a more important financial behavioral score of 0.086755.",
+        "Index": "55",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.039486 is paired with a financial behavioral score of 0.076397, emphasizing financial behavior.",
+        "Index": "120",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.030822 is less significant than the financial behavioral score of 0.080064.",
+        "Index": "215",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.037569 is accompanied by a financial behavioral score of 0.076715, which is more crucial.",
+        "Index": "25",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027271, the financial behavioral score of 0.076869 takes precedence.",
+        "Index": "72",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027662 is paired with a financial behavioral score of 0.077097, emphasizing the latter.",
+        "Index": "44",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.037717 is less significant than the financial behavioral score of 0.084718.",
+        "Index": "247",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.045519 is overshadowed by the financial behavioral score of 0.079538.  ",
+        "Index": "721",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.038526 is accompanied by a financial behavioral score of 0.085074, emphasizing financial behavior's priority.",
+        "Index": "281",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.038301 is overshadowed by the financial behavioral score of 0.079707.",
+        "Index": "893",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038137 is less significant compared to the financial behavioral score of 0.076364.",
+        "Index": "914",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.044640 is less impactful compared to the financial behavioral score of 0.079017.",
+        "Index": "810",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038522 is paired with a financial behavioral score of 0.086114, underscoring the importance of financial behavior.",
+        "Index": "244",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027635 is paired with a financial behavioral score of 0.078200, highlighting financial behavior.",
+        "Index": "822",
+        "Response": "1"
+    },
+    {
+        "Question": "With a relatively high demo score of 0.0464 and a fair behavioral score of 0.0767, financial behavior could be improved.",
+        "Index": "321",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographic score of 0.030313, the financial behavioral score of 0.085534 takes precedence.  ",
+        "Index": "643",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030413 is less significant compared to the financial behavioral score of 0.079167.",
+        "Index": "158",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027400 is less significant compared to the financial behavioral score of 0.079943.",
+        "Index": "977",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.048020 and a financial behavioral score of 0.077123, financial behavior is more critical.",
+        "Index": "429",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038711 is less significant compared to the financial behavioral score of 0.086181.",
+        "Index": "941",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.046604 is less impactful compared to the financial behavioral score of 0.079415.",
+        "Index": "462",
+        "Response": "0"
+    },
+    {
+        "Question": "A demo score of 0.0402 and behavioral score of 0.0794 show solid, stable financial habits.",
+        "Index": "309",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.050282 is accompanied by a financial behavioral score of 0.085554, which is more critical.  ",
+        "Index": "697",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.037203 is paired with a financial behavioral score of 0.079006, emphasizing the latter.",
+        "Index": "60",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.030030 is less significant compared to the financial behavioral score of 0.079474.",
+        "Index": "884",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.049152 is paired with a financial behavioral score of 0.079168, showing the priority of financial behavior.",
+        "Index": "595",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.049835 is less critical compared to the financial behavioral score of 0.086082.  ",
+        "Index": "767",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038911 is accompanied by a financial behavioral score of 0.075598, which is more critical.  ",
+        "Index": "649",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.029582 is less significant compared to the financial behavioral score of 0.076618.  ",
+        "Index": "650",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.038538 is paired with a financial behavioral score of 0.085393, emphasizing financial behavior.",
+        "Index": "865",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027407 is paired with a more crucial financial behavioral score of 0.078145.  ",
+        "Index": "668",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.038376 is less influential compared to the financial behavioral score of 0.085268.",
+        "Index": "298",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038695 is accompanied by a financial behavioral score of 0.075391, which is more critical.  ",
+        "Index": "689",
+        "Response": "0"
+    },
+    {
+        "Question": "Moderate demo score (0.0358) is matched with a behavioral score of 0.0840, showing good financial behavior.",
+        "Index": "314",
+        "Response": "0"
+    },
+    {
+        "Question": "High demographical score (0.0504) with a good behavioral score (0.0790) suggests overall reliability.",
+        "Index": "310",
+        "Response": "0"
+    },
+    {
+        "Question": "A very low demo score (0.0274) with a strong behavioral score (0.0829) reflects positive financial conduct.",
+        "Index": "361",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027376 is paired with a financial behavioral score of 0.076982, highlighting the importance of financial behavior.",
+        "Index": "479",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027667 is less significant compared to the financial behavioral score of 0.078773.",
+        "Index": "110",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027519 is less significant compared to the financial behavioral score of 0.079810.",
+        "Index": "989",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.038048 is less impactful compared to the financial behavioral score of 0.085359.",
+        "Index": "486",
+        "Response": "0"
+    },
+    {
+        "Question": "The demo score of 0.0390 and behavioral score of 0.0850 reflect strong financial behavior.",
+        "Index": "363",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.030855 and a financial behavioral score of 0.079602, financial behavior takes precedence.",
+        "Index": "254",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.049311 and a financial behavioral score of 0.085042, the latter is more critical.",
+        "Index": "259",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027875 is accompanied by a financial behavioral score of 0.077703, highlighting the importance of financial behavior.",
+        "Index": "802",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.038825 is overshadowed by the financial behavioral score of 0.079024.  ",
+        "Index": "677",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.038430 is less significant than the financial behavioral score of 0.077074.",
+        "Index": "494",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.038083, the financial behavioral score of 0.086113 is more significant.  ",
+        "Index": "670",
+        "Response": "0"
+    },
+    {
+        "Question": "A very low demo score (0.0276) with a high behavioral score of 0.0856 reflects sound financial behavior.",
+        "Index": "377",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.038215 and a financial behavioral score of 0.086126, financial behavior is more important.",
+        "Index": "526",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030654 is paired with a financial behavioral score of 0.079467, emphasizing financial behavior.",
+        "Index": "845",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.037482 is overshadowed by the financial behavioral score of 0.079786.",
+        "Index": "137",
+        "Response": "1"
+    },
+    {
+        "Question": "A high demographic score (0.0468) and fair behavioral score (0.0795) reflect a balanced credit profile.",
+        "Index": "355",
+        "Response": "1"
+    },
+    {
+        "Question": "A low demo score (0.0306) and high behavioral score (0.0860) show responsible financial behavior.",
+        "Index": "365",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.030305 and a financial behavioral score of 0.085778, financial behavior is more important.",
+        "Index": "942",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.030465 is accompanied by a financial behavioral score of 0.085018, emphasizing the significance of financial behavior.  ",
+        "Index": "749",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.049806 is paired with a financial behavioral score of 0.085890, emphasizing financial behavior.",
+        "Index": "948",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038273 is accompanied by a financial behavioral score of 0.079799, emphasizing financial behavior.",
+        "Index": "829",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.027395 is paired with a more important financial behavioral score of 0.078992.  ",
+        "Index": "656",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.027326 and a financial behavioral score of 0.079372, financial behavior is prioritized.",
+        "Index": "199",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.027386 is overshadowed by the financial behavioral score of 0.083716.",
+        "Index": "213",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.027348 is overshadowed by the financial behavioral score of 0.085613.",
+        "Index": "408",
+        "Response": "0"
+    },
+    {
+        "Question": "A high demo score of 0.0473 and behavioral score of 0.0794 indicate strong demographic and financial behavior.",
+        "Index": "332",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.039662 is paired with a financial behavioral score of 0.076753, highlighting the importance of financial behavior.",
+        "Index": "208",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039176 is overshadowed by the financial behavioral score of 0.077285.  ",
+        "Index": "613",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038734 is less significant than the financial behavioral score of 0.085382.",
+        "Index": "78",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.027499 is overshadowed by the financial behavioral score of 0.075856.",
+        "Index": "29",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.043970 is paired with a financial behavioral score of 0.083664, showing the priority of financial behavior.",
+        "Index": "535",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.038686 is less important than the financial behavioral score of 0.085345.  ",
+        "Index": "695",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038665 is associated with a financial behavioral score of 0.086881, highlighting financial behavior.",
+        "Index": "557",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.038194 and a financial behavioral score of 0.085300, financial behavior remains more crucial.",
+        "Index": "836",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.030366 and a financial behavioral score of 0.076706, financial behavior is more important.",
+        "Index": "596",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038056 is accompanied by a financial behavioral score of 0.085336, highlighting the importance of financial behavior.",
+        "Index": "165",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.050997 is overshadowed by the financial behavioral score of 0.076927.",
+        "Index": "918",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.038677 is paired with a financial behavioral score of 0.076930, emphasizing financial behavior.",
+        "Index": "495",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.048638 is less impactful compared to the financial behavioral score of 0.085396.",
+        "Index": "824",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027376 is accompanied by a financial behavioral score of 0.086789, which is more crucial.",
+        "Index": "65",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.047988 is accompanied by a financial behavioral score of 0.079337, highlighting the importance of financial behavior.",
+        "Index": "141",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.046841 is less significant compared to the financial behavioral score of 0.075176.",
+        "Index": "925",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.039163 is less significant compared to the financial behavioral score of 0.087047.",
+        "Index": "827",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.049133 is less important than the financial behavioral score of 0.077380.  ",
+        "Index": "655",
+        "Response": "0"
+    },
+    {
+        "Question": "With a moderate demo score (0.0388) and a strong behavioral score (0.0857), the individual shows good financial conduct.",
+        "Index": "331",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.037682 is paired with a more important financial behavioral score of 0.083519.  ",
+        "Index": "664",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.050893 is accompanied by a financial behavioral score of 0.085261, emphasizing financial behavior's priority.",
+        "Index": "249",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038864 is less significant compared to the financial behavioral score of 0.079791.",
+        "Index": "907",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027611 is paired with a financial behavioral score of 0.079316, highlighting the latter's importance.  ",
+        "Index": "708",
+        "Response": "0"
+    },
+    {
+        "Question": "A moderate demo score of 0.0387 is paired with a high behavioral score of 0.0854, indicating trustworthy financial tendencies.",
+        "Index": "305",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.030225, the financial behavioral score of 0.087000 takes precedence.  ",
+        "Index": "734",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.037441 is overshadowed by the financial behavioral score of 0.082984.",
+        "Index": "975",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038450 is accompanied by a financial behavioral score of 0.085262, which is more crucial.",
+        "Index": "49",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.049673 and a financial behavioral score of 0.076710, financial behavior remains more crucial.",
+        "Index": "896",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.030628 is accompanied by a more significant financial behavioral score of 0.087128.",
+        "Index": "2",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027616 is linked to a financial behavioral score of 0.084823, underscoring the significance of financial behavior.",
+        "Index": "544",
+        "Response": "0"
+    },
+    {
+        "Question": "A high demo score of 0.0505 and strong behavioral score of 0.0853 indicate excellent credit reliability.",
+        "Index": "350",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027354 is paired with a financial behavioral score of 0.085493, emphasizing financial behavior.",
+        "Index": "904",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.049699 and a financial behavioral score of 0.075310, financial behavior is more important.",
+        "Index": "536",
+        "Response": "0"
+    },
+    {
+        "Question": "A high demographic score (0.0463) and strong behavioral score (0.0835) indicate a reliable credit profile.",
+        "Index": "344",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.027420 and a financial behavioral score of 0.086244, financial behavior takes precedence.",
+        "Index": "994",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.047821 and a financial behavioral score of 0.079501, financial behavior is prioritized.",
+        "Index": "481",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030577 is paired with a financial behavioral score of 0.085257, showing the priority of financial behavior.",
+        "Index": "575",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027506 is accompanied by a financial behavioral score of 0.085382, which is more crucial.",
+        "Index": "33",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039194 is paired with a more important financial behavioral score of 0.077012.",
+        "Index": "31",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027716 is less significant than the financial behavioral score of 0.085519.",
+        "Index": "231",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027450 is overshadowed by the financial behavioral score of 0.086051.",
+        "Index": "963",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038387 is paired with a financial behavioral score of 0.079358, emphasizing financial behavior.",
+        "Index": "192",
+        "Response": "1"
+    },
+    {
+        "Question": "Average demo score (0.0414) paired with a high behavioral score (0.0857) shows dependable financial reliability.",
+        "Index": "333",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.030636 is less critical compared to the financial behavioral score of 0.078204.",
+        "Index": "3",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027415 is paired with a financial behavioral score of 0.085954, underscoring the priority of financial behavior.",
+        "Index": "204",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.046080 is linked to a financial behavioral score of 0.086395, underscoring the significance of financial behavior.",
+        "Index": "514",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.048240 is less critical compared to the financial behavioral score of 0.078524.  ",
+        "Index": "799",
+        "Response": "0"
+    },
+    {
+        "Question": "With a low demo score of 0.0300 and a high behavioral score of 0.0864, financial behavior outweighs demographic limitations.",
+        "Index": "306",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027862 is accompanied by a financial behavioral score of 0.079989, highlighting the importance of financial behavior.",
+        "Index": "109",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.031590 is overshadowed by the financial behavioral score of 0.086022.",
+        "Index": "430",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.030588 is overshadowed by the financial behavioral score of 0.079401.",
+        "Index": "77",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.027544 is paired with a financial behavioral score of 0.076710, emphasizing the latter.",
+        "Index": "84",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.030206 and a financial behavioral score of 0.078537, financial behavior takes precedence.",
+        "Index": "286",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039230 is less critical compared to the financial behavioral score of 0.085650.",
+        "Index": "82",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.027406 is overshadowed by the financial behavioral score of 0.086031.",
+        "Index": "991",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.039028 is accompanied by a financial behavioral score of 0.075824, emphasizing the significance of financial behavior.  ",
+        "Index": "789",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.038411 is less significant compared to the financial behavioral score of 0.085689.",
+        "Index": "894",
+        "Response": "0"
+    },
+    {
+        "Question": "A very low demo score (0.0283) and fair behavioral score (0.0794) suggest reliability through financial behavior.",
+        "Index": "398",
+        "Response": "1"
+    },
+    {
+        "Question": "Moderate demo score (0.0386) and behavioral score (0.0771) point to stable but unremarkable financial conduct.",
+        "Index": "323",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.027493 is linked to a financial behavioral score of 0.085517, underscoring the importance of financial behavior.",
+        "Index": "519",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.038700 is paired with a financial behavioral score of 0.086409, emphasizing financial behavior.",
+        "Index": "916",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.048273 and a financial behavioral score of 0.076690, financial behavior takes precedence.",
+        "Index": "922",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.037787 is overshadowed by the financial behavioral score of 0.085595.",
+        "Index": "5",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.040478 is less significant compared to the financial behavioral score of 0.077382.  ",
+        "Index": "731",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographic score of 0.038650 and a financial behavioral score of 0.077707, financial behavior is more critical.",
+        "Index": "465",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038586 is accompanied by a financial behavioral score of 0.079520, which is more crucial.",
+        "Index": "97",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.027396 is less influential compared to the financial behavioral score of 0.085993.",
+        "Index": "266",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demo score of 0.0386 and a very strong behavioral score of 0.0862, financial behavior dominates the profile.",
+        "Index": "357",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.027438 is paired with a financial behavioral score of 0.085930, highlighting financial behavior.",
+        "Index": "868",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.027427, the financial behavioral score of 0.086374 takes precedence.  ",
+        "Index": "798",
+        "Response": "0"
+    },
+    {
+        "Question": "A low demo score (0.0303) and modest behavioral score (0.0771) suggest moderate financial responsibility.",
+        "Index": "380",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038895 is less important than the financial behavioral score of 0.076892.  ",
+        "Index": "631",
+        "Response": "1"
+    },
+    {
+        "Question": "A high demo score (0.0510) and fair behavioral score (0.0806) reflect decent creditworthiness.",
+        "Index": "381",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.027675 is overshadowed by the financial behavioral score of 0.085279.",
+        "Index": "490",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.037857 is less significant compared to the financial behavioral score of 0.077036.",
+        "Index": "118",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.027652 is paired with a financial behavioral score of 0.076481, indicating a stronger emphasis on financial behavior.",
+        "Index": "900",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographic score of 0.030025 is less influential compared to the financial behavioral score of 0.077565.",
+        "Index": "250",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.030904 is coupled with a financial behavioral score of 0.085487, emphasizing financial behavior.",
+        "Index": "523",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.051151 is accompanied by a financial behavioral score of 0.079826, which is more crucial.",
+        "Index": "9",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.038763 is paired with a financial behavioral score of 0.085167, with financial behavior being more crucial.",
+        "Index": "196",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039106 is less critical compared to the financial behavioral score of 0.085797.  ",
+        "Index": "603",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.027493 is accompanied by a financial behavioral score of 0.085248, which is more crucial.",
+        "Index": "81",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.046310 is less critical compared to the financial behavioral score of 0.079252.  ",
+        "Index": "783",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.041229 is associated with a financial behavioral score of 0.076767, highlighting financial behavior.",
+        "Index": "587",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.048996 is accompanied by a financial behavioral score of 0.085077, emphasizing the significance of financial behavior.  ",
+        "Index": "797",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.028012 is less significant than the financial behavioral score of 0.077781.",
+        "Index": "239",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.039201 is less influential compared to the financial behavioral score of 0.085943.",
+        "Index": "290",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographic score of 0.027381 and a financial behavioral score of 0.086006, the latter is more critical.",
+        "Index": "211",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.039141 is accompanied by a financial behavioral score of 0.085349, emphasizing the significance of financial behavior.  ",
+        "Index": "717",
+        "Response": "0"
+    },
+    {
+        "Question": "A low demo score of 0.0299 with a fair behavioral score of 0.0768 suggests behavioral reliability outweighs demographics.",
+        "Index": "359",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographic score of 0.037870 and a financial behavioral score of 0.079829, financial behavior is more significant.",
+        "Index": "449",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographic score of 0.027315 and a financial behavioral score of 0.078336, the latter is more critical.",
+        "Index": "227",
+        "Response": "1"
+    },
+    {
+        "Question": "With a demographical score of 0.049479 and a financial behavioral score of 0.079215, financial behavior is more important.",
+        "Index": "950",
+        "Response": "0"
+    },
+    {
+        "Question": "With a demographical score of 0.045965 and a financial behavioral score of 0.077397, financial behavior takes precedence.",
+        "Index": "946",
+        "Response": "1"
+    },
+    {
+        "Question": "The demographical score of 0.027556 is paired with a financial behavioral score of 0.076535, highlighting the latter's importance.  ",
+        "Index": "796",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographical score of 0.027617 is associated with a financial behavioral score of 0.078257, highlighting the importance of financial behavior.",
+        "Index": "501",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographic score of 0.030275 is less significant than the financial behavioral score of 0.086533.",
+        "Index": "464",
+        "Response": "0"
+    },
+    {
+        "Question": "A moderate demo score (0.0395) and behavioral score (0.0828) suggest a steady financial history.",
+        "Index": "362",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038695 is less influential compared to the financial behavioral score of 0.086587.",
+        "Index": "468",
+        "Response": "0"
+    },
+    {
+        "Question": "The demographical score of 0.049345 is overshadowed by the financial behavioral score of 0.079481.",
+        "Index": "935",
+        "Response": "1"
+    },
+    {
+        "Question": "A demographic score of 0.027660 is less significant than the financial behavioral score of 0.085011.",
+        "Index": "428",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographic score of 0.038152 is less significant than the financial behavioral score of 0.079807.",
+        "Index": "7",
+        "Response": "0"
+    },
+    {
+        "Question": "A demographical score of 0.038538 is less important than the financial behavioral score of 0.076767.",
+        "Index": "155",
+        "Response": "1"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "Index": "34",
+        "Question": "The demographic score is 0.243248, while the financial behavioral score of 0.270807 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "36",
+        "Question": "The demographic score is 0.363766, but the financial behavioral score of 0.270717 is prioritized.",
+        "Response": "1"
+    },
+    {
+        "Index": "60",
+        "Question": "The demographic score is 0.249213, but the financial behavioral score of 0.270052 is prioritized.",
+        "Response": "1"
+    },
+    {
+        "Index": "35",
+        "Question": "A demographic score of 0.364097 is less important than the financial behavioral score of 0.270945.",
+        "Response": "0"
+    },
+    {
+        "Index": "83",
+        "Question": "A demographic score of 0.363867 is less important than the financial behavioral score of 0.268918.",
+        "Response": "0"
+    },
+    {
+        "Index": "109",
+        "Question": "Despite a demographic score of 0.363391, the financial behavioral score of 0.267432 is more critical.",
+        "Response": "1"
+    },
+    {
+        "Index": "38",
+        "Question": "The demographic score is 0.363742, yet the financial behavioral score of 0.270831 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "30",
+        "Question": "The demographic score is 0.363853, yet the financial behavioral score of 0.271116 takes precedence.",
+        "Response": "1"
+    },
+    {
+        "Index": "82",
+        "Question": "The demographic score is 0.237415, while the financial behavioral score of 0.265816 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "17",
+        "Question": "With a demographic score of 0.363667, the financial behavioral score of 0.267546 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "51",
+        "Question": "A demographic score of 0.363689 is less important than the financial behavioral score of 0.270126.",
+        "Response": "0"
+    },
+    {
+        "Index": "75",
+        "Question": "A demographic score of 0.364407 is less important than the financial behavioral score of 0.270870.",
+        "Response": "0"
+    },
+    {
+        "Index": "66",
+        "Question": "The demographic score is 0.363159, while the financial behavioral score of 0.270824 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "9",
+        "Question": "With a demographic score of 0.363436, the financial behavioral score of 0.271101 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "58",
+        "Question": "The demographic score is 0.363646, while the financial behavioral score of 0.270050 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "95",
+        "Question": "A demographic score of 0.364217 is overshadowed by the financial behavioral score of 0.270875.",
+        "Response": "1"
+    },
+    {
+        "Index": "101",
+        "Question": "Despite a demographic score of 0.366435, the financial behavioral score of 0.270123 is more critical.",
+        "Response": "1"
+    },
+    {
+        "Index": "15",
+        "Question": "A demographic score of 0.363159 is overshadowed by the financial behavioral score of 0.268242.",
+        "Response": "0"
+    },
+    {
+        "Index": "113",
+        "Question": "With a demographic score of 0.365565, the financial behavioral score of 0.267460 is more important.",
+        "Response": "1"
+    },
+    {
+        "Index": "118",
+        "Question": "The demographic score is 0.365001, yet the financial behavioral score of 0.268884 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "41",
+        "Question": "With a demographic score of 0.363327, the financial behavioral score of 0.270633 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "39",
+        "Question": "A demographic score of 0.238119 is overshadowed by the financial behavioral score of 0.270798.",
+        "Response": "1"
+    },
+    {
+        "Index": "100",
+        "Question": "The demographic score is 0.363798, but the financial behavioral score of 0.270024 is prioritized.",
+        "Response": "0"
+    },
+    {
+        "Index": "40",
+        "Question": "The demographic score is 0.362825, but the financial behavioral score of 0.270815 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "61",
+        "Question": "Despite a demographic score of 0.363242, the financial behavioral score of 0.270233 is more critical.",
+        "Response": "0"
+    },
+    {
+        "Index": "90",
+        "Question": "The demographic score is 0.362001, while the financial behavioral score of 0.271023 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "49",
+        "Question": "With a demographic score of 0.363746, the financial behavioral score of 0.270075 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "91",
+        "Question": "A demographic score of 0.363746 is less important than the financial behavioral score of 0.270967.",
+        "Response": "0"
+    },
+    {
+        "Index": "8",
+        "Question": "The demographic score is 0.363737, but the financial behavioral score of 0.271050 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "56",
+        "Question": "The demographic score is 0.256732, but the financial behavioral score of 0.270079 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "98",
+        "Question": "The demographic score is 0.359559, while the financial behavioral score of 0.270332 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "116",
+        "Question": "The demographic score is 0.363350, but the financial behavioral score of 0.268752 is prioritized.",
+        "Response": "0"
+    },
+    {
+        "Index": "65",
+        "Question": "With a demographic score of 0.363312, the financial behavioral score of 0.270856 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "107",
+        "Question": "A demographic score of 0.363287 is less important than the financial behavioral score of 0.267425.",
+        "Response": "1"
+    },
+    {
+        "Index": "71",
+        "Question": "A demographic score of 0.358278 is overshadowed by the financial behavioral score of 0.270928.",
+        "Response": "0"
+    },
+    {
+        "Index": "63",
+        "Question": "A demographic score of 0.364745 is overshadowed by the financial behavioral score of 0.270504.",
+        "Response": "0"
+    },
+    {
+        "Index": "22",
+        "Question": "The demographic score is 0.363568, yet the financial behavioral score of 0.271092 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "6",
+        "Question": "The demographic score is 0.363287, yet the financial behavioral score of 0.271085 is prioritized.",
+        "Response": "0"
+    },
+    {
+        "Index": "99",
+        "Question": "A demographic score of 0.253454 is less important than the financial behavioral score of 0.270135.",
+        "Response": "1"
+    },
+    {
+        "Index": "86",
+        "Question": "The demographic score is 0.363600, yet the financial behavioral score of 0.270862 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "123",
+        "Question": "A demographic score of 0.363632 is less important than the financial behavioral score of 0.268830.",
+        "Response": "0"
+    },
+    {
+        "Index": "46",
+        "Question": "The demographic score is 0.365136, yet the financial behavioral score of 0.270097 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "10",
+        "Question": "The demographic score is 0.261735, while the financial behavioral score of 0.271065 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "96",
+        "Question": "The demographic score is 0.364001, but the financial behavioral score of 0.270141 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "16",
+        "Question": "The demographic score is 0.363312, but the financial behavioral score of 0.268041 is more significant.",
+        "Response": "1"
+    },
+    {
+        "Index": "112",
+        "Question": "The demographic score is 0.366373, but the financial behavioral score of 0.267425 is more significant.",
+        "Response": "1"
+    },
+    {
+        "Index": "74",
+        "Question": "The demographic score is 0.363537, while the financial behavioral score of 0.264370 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "59",
+        "Question": "A demographic score of 0.363448 is less important than the financial behavioral score of 0.270127.",
+        "Response": "0"
+    },
+    {
+        "Index": "119",
+        "Question": "A demographic score of 0.363674 is overshadowed by the financial behavioral score of 0.268938.",
+        "Response": "0"
+    },
+    {
+        "Index": "87",
+        "Question": "A demographic score of 0.366000 is overshadowed by the financial behavioral score of 0.271022.",
+        "Response": "0"
+    },
+    {
+        "Index": "84",
+        "Question": "The demographic score is 0.363763, but the financial behavioral score of 0.270071 is prioritized.",
+        "Response": "0"
+    },
+    {
+        "Index": "103",
+        "Question": "A demographic score of 0.363697 is overshadowed by the financial behavioral score of 0.270093.",
+        "Response": "0"
+    },
+    {
+        "Index": "55",
+        "Question": "A demographic score of 0.364217 is overshadowed by the financial behavioral score of 0.270157.",
+        "Response": "0"
+    },
+    {
+        "Index": "14",
+        "Question": "The demographic score is 0.364135, yet the financial behavioral score of 0.268118 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "7",
+        "Question": "A demographic score of 0.359488 is overshadowed by the financial behavioral score of 0.271052.",
+        "Response": "0"
+    },
+    {
+        "Index": "89",
+        "Question": "With a demographic score of 0.363711, the financial behavioral score of 0.271023 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "18",
+        "Question": "The demographic score is 0.363477, while the financial behavioral score of 0.267859 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "121",
+        "Question": "With a demographic score of 0.363436, the financial behavioral score of 0.268798 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "80",
+        "Question": "The demographic score is 0.363575, but the financial behavioral score of 0.270670 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "93",
+        "Question": "Despite a demographic score of 0.365417, the financial behavioral score of 0.270828 is more critical.",
+        "Response": "0"
+    },
+    {
+        "Index": "2",
+        "Question": "With a demographic score of 0.366435, the financial behavioral score remains significant at 0.271037.",
+        "Response": "0"
+    },
+    {
+        "Index": "106",
+        "Question": "The demographic score is 0.363287, while the financial behavioral score of 0.267390 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "85",
+        "Question": "Despite a demographic score of 0.255025, the financial behavioral score of 0.271134 is more critical.",
+        "Response": "0"
+    },
+    {
+        "Index": "73",
+        "Question": "With a demographic score of 0.363148, the financial behavioral score of 0.270867 is more important.",
+        "Response": "0"
+    },
+    {
+        "Index": "52",
+        "Question": "The demographic score is 0.363677, but the financial behavioral score of 0.270141 is prioritized.",
+        "Response": "1"
+    },
+    {
+        "Index": "47",
+        "Question": "A demographic score of 0.363674 is overshadowed by the financial behavioral score of 0.269857.",
+        "Response": "0"
+    },
+    {
+        "Index": "105",
+        "Question": "With a demographic score of 0.363644, the financial behavioral score of 0.270127 is more important.",
+        "Response": "1"
+    },
+    {
+        "Index": "69",
+        "Question": "Despite a demographic score of 0.363436, the financial behavioral score of 0.270601 is more critical.",
+        "Response": "0"
+    },
+    {
+        "Index": "72",
+        "Question": "The demographic score is 0.326617, but the financial behavioral score of 0.270911 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "62",
+        "Question": "The demographic score is 0.356623, yet the financial behavioral score of 0.270847 takes precedence.",
+        "Response": "0"
+    },
+    {
+        "Index": "42",
+        "Question": "The demographic score is 0.363711, while the financial behavioral score of 0.270067 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "104",
+        "Question": "The demographic score is 0.363788, but the financial behavioral score of 0.270127 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "44",
+        "Question": "The demographic score is 0.253257, but the financial behavioral score of 0.270027 is prioritized.",
+        "Response": "1"
+    },
+    {
+        "Index": "50",
+        "Question": "The demographic score is 0.364217, while the financial behavioral score of 0.270112 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "13",
+        "Question": "Despite a demographic score of 0.365707, the financial behavioral score of 0.267849 is more critical.",
+        "Response": "1"
+    },
+    {
+        "Index": "108",
+        "Question": "The demographic score is 0.363391, but the financial behavioral score of 0.267460 is prioritized.",
+        "Response": "0"
+    },
+    {
+        "Index": "120",
+        "Question": "The demographic score is 0.365006, but the financial behavioral score of 0.269041 is more significant.",
+        "Response": "1"
+    },
+    {
+        "Index": "25",
+        "Question": "With a demographic score of 0.351403, the financial behavioral score of 0.271095 is more important.",
+        "Response": "1"
+    },
+    {
+        "Index": "67",
+        "Question": "A demographic score of 0.363135 is less important than the financial behavioral score of 0.270923.",
+        "Response": "1"
+    },
+    {
+        "Index": "114",
+        "Question": "The demographic score is 0.366146, while the financial behavioral score of 0.267432 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "125",
+        "Question": "Despite a demographic score of 0.363711, the financial behavioral score of 0.269082 is more critical.",
+        "Response": "1"
+    },
+    {
+        "Index": "64",
+        "Question": "The demographic score is 0.363516, but the financial behavioral score of 0.270997 is more significant.",
+        "Response": "0"
+    },
+    {
+        "Index": "88",
+        "Question": "The demographic score is 0.251495, but the financial behavioral score of 0.271147 is more significant.",
+        "Response": "1"
+    },
+    {
+        "Index": "3",
+        "Question": "A demographic score of 0.233987 contrasts with a more important financial behavioral score of 0.271065.",
+        "Response": "1"
+    },
+    {
+        "Index": "26",
+        "Question": "The demographic score is 0.366000, while the financial behavioral score of 0.271083 holds more weight.",
+        "Response": "1"
+    },
+    {
+        "Index": "122",
+        "Question": "The demographic score is 0.361667, while the financial behavioral score of 0.269245 holds more weight.",
+        "Response": "0"
+    },
+    {
+        "Index": "33",
+        "Question": "With a demographic score of 0.361812, the financial behavioral score of 0.271056 is more important.",
+        "Response": "1"
+    },
+    {
+        "Index": "31",
+        "Question": "A demographic score of 0.365417 is overshadowed by the financial behavioral score of 0.271062.",
+        "Response": "0"
+    },
+    {
+        "Index": "21",
+        "Question": "Despite a demographic score of 0.363242, the financial behavioral score of 0.271049 is more critical.",
+        "Response": "0"
+    },
+    {
+        "Index": "81",
+        "Question": "With a demographic score of 0.363175, the financial behavioral score of 0.270878 is more important.",
+        "Response": "0"
+    }
+]
