@@ -8,22 +8,19 @@ An Efficient Credit Scoring LLM
 # Commands
 
 - ## Set up environment.
-
+  
   ```
   pip install -r requirements.txt
-  
   ```
 - ## To train, run the following commands.
   
   ```
   python Third_Train.py --dataset <dataset name>
-
   ```
 - ## To valid, run the following commands.
 
   ```
   python Fourth_Test.py --dataset <dataset name>
-
   ```
 - ## If you want to curate the datasets from the beginning, please refer to the first and second steps.
 
