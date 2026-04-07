@@ -33,6 +33,20 @@ An Efficient Credit Scoring LLM
 
 ## 1. [DeepSeek-R1](https://arxiv.org/abs/2501.12948)
 
+# Citation
+
+## If you find our code useful, please cite our work.
+
+```
+@inproceedings{shi2025large,
+  title={Large Language Model-Guided Credit Scoring},
+  author={Shi, Si and Yuan, Hongxu and Li, Huijie and Luo, Wuman and Pau, Giovanni},
+  booktitle={2025 IEEE International Conference on Data Mining Workshops (ICDMW)},
+  pages={927--936},
+  year={2025},
+  organization={IEEE}
+}
+ ```
 
   
   
